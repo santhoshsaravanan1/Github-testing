@@ -1,2 +1,2 @@
 # Github-testing
-Just following the tutuorial
+Just following the tutorial
